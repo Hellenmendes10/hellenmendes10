@@ -43,6 +43,4 @@ Analista de Dados com background em Administração e foco em transformar inform
     src="https://github-readme-stats.vercel.app/api?username=hellenmendes10&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-
 </p>
