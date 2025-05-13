@@ -1,4 +1,4 @@
-# 👩‍💻 Héllen Mendes
+# 👩‍💻 Héllen Romeiro
 
 **`Dados + Negócios = Estratégia | Power BI & Data Storytelling `**
 
